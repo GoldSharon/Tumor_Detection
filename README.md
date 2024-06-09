@@ -30,7 +30,7 @@ This project is a web application developed using Flask to predict brain tumor t
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/brain-tumor-prediction.git
+    git clone https://github.com/GoldSharon/brain-tumor-prediction.git
     ```
 
 2. Navigate to the project directory:
